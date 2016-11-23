@@ -15,6 +15,7 @@ cask 'atom'
 cask 'skype'
 cask 'slack'
 cask 'spotify'
+cask 'geekbench'
 cask 'google-chrome'
 cask 'google-cloud-sdk'
 cask 'arq'
@@ -31,4 +32,4 @@ cask 'iterm2'
 # Mac App Store apps
 mas 'Parcel', id: 639968404
 mas '1Password', id: 443987910
-mas 'Tweetbot', id: 557168941 
+mas 'Tweetbot', id: 557168941
