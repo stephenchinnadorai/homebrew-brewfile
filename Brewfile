@@ -1,5 +1,6 @@
 brew 'awscli'
 brew 'curl'
+brew 'ffmpeg'
 brew 'git'
 brew 'heroku-toolbelt'
 brew 'hub'
