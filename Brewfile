@@ -13,26 +13,20 @@ brew 'wget'
 
 cask 'arq'
 cask 'atom'
-cask 'atom'
 cask 'dropbox'
 cask 'flux'
 cask 'geekbench'
 cask 'google-chrome'
 cask 'google-cloud-sdk'
-cask 'google-cloud-sdk'
 cask 'iterm2'
 cask 'kindle'
 cask 'microsoft-office'
 cask 'skype'
-cask 'skype'
-cask 'slack'
 cask 'slack'
 cask 'spectacle'
-cask 'spotify'
 cask 'spotify'
 cask 'vlc'
 
 mas '1Password', id: 443987910
 mas 'Parcel', id: 639968404
-mas 'Tweetbot', id: 557168941
 mas 'Tweetbot', id: 557168941
