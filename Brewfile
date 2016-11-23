@@ -30,3 +30,4 @@ cask 'font-sauce-code-powerline'
 # Mac App Store apps
 mas 'Parcel', id: 639968404
 mas '1Password', id: 443987910
+mas 'Tweetbot', id: 557168941 
