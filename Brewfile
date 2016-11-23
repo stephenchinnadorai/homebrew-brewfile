@@ -13,6 +13,7 @@ brew 'wget'
 
 cask 'arq'
 cask 'atom'
+cask 'docker'
 cask 'dropbox'
 cask 'flux'
 cask 'geekbench'
