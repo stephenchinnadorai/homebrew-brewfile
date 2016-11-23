@@ -26,6 +26,7 @@ cask 'spectacle'
 cask 'vlc'
 cask 'font-menlo-for-powerline'
 cask 'font-sauce-code-powerline'
+cask 'iterm2'
 
 # Mac App Store apps
 mas 'Parcel', id: 639968404
