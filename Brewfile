@@ -10,6 +10,7 @@ brew 'shellcheck'
 brew 'terraform'
 brew 'vim'
 brew 'wget'
+brew 'youtube-dl'
 
 cask 'arq'
 cask 'atom'
