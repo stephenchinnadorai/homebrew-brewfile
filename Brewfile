@@ -33,3 +33,4 @@ cask 'vlc'
 mas '1Password', id: 443987910
 mas 'Parcel', id: 639968404
 mas 'Tweetbot', id: 557168941
+mas 'Pocket', id: 568494494 
