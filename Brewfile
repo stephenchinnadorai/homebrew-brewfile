@@ -28,6 +28,7 @@ cask 'skype'
 cask 'slack'
 cask 'spectacle'
 cask 'spotify'
+cask 'transmission'
 cask 'vlc'
 
 mas '1Password', id: 443987910
