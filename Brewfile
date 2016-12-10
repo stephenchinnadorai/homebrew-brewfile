@@ -30,6 +30,7 @@ cask 'spectacle'
 cask 'spotify'
 cask 'transmission'
 cask 'vlc'
+cask 'whatsapp'
 
 mas '1Password', id: 443987910
 mas 'Parcel', id: 639968404
