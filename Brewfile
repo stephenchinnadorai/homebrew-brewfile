@@ -15,6 +15,7 @@ brew 'youtube-dl'
 
 cask 'arq'
 cask 'atom'
+cask 'beamer'
 cask 'docker'
 cask 'dropbox'
 cask 'evernote'
