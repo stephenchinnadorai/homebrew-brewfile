@@ -14,6 +14,7 @@ brew 'vim'
 brew 'wget'
 brew 'youtube-dl'
 
+cask 'airserver'
 cask 'arq'
 cask 'atom'
 cask 'beamer'
