@@ -33,6 +33,7 @@ cask 'slack'
 cask 'spectacle'
 cask 'spotify'
 cask 'transmission'
+cask 'virtualbox'
 cask 'vlc'
 cask 'whatsapp'
 
