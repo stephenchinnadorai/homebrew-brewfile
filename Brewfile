@@ -39,6 +39,7 @@ cask 'vagrant'
 cask 'virtualbox'
 cask 'vlc'
 cask 'whatsapp'
+cask 'xld'
 
 mas '1Password', id: 443987910
 mas 'Parcel', id: 639968404
