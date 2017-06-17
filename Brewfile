@@ -16,6 +16,7 @@ brew 'watch'
 brew 'wget'
 brew 'youtube-dl'
 
+cask 'adobe-photoshop-lightroom'
 cask 'airserver'
 cask 'arq'
 cask 'atom'
