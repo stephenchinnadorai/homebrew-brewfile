@@ -1,5 +1,6 @@
 brew 'awscli'
 brew 'curl'
+brew 'doctl'
 brew 'ffmpeg'
 brew 'git'
 brew 'go'
