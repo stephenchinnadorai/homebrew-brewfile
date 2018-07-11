@@ -1,3 +1,5 @@
+
+
 brew 'awscli'
 brew 'curl'
 brew 'doctl'
@@ -7,6 +9,7 @@ brew 'go'
 brew 'heroku-toolbelt'
 brew 'hub'
 brew 'jq'
+brew 'kubernetes-cli'
 brew 'mackup'
 brew 'mas'
 brew 'packer'
@@ -18,6 +21,7 @@ brew 'watch'
 brew 'wget'
 brew 'youtube-dl'
 
+cask '1password'
 cask 'adobe-photoshop-lightroom'
 cask 'airserver'
 cask 'arq'
@@ -33,6 +37,7 @@ cask 'google-photos-backup'
 cask 'iterm2'
 cask 'kindle'
 cask 'microsoft-office'
+cask 'minikube'
 cask 'musicbrainz-picard'
 cask 'sketch'
 cask 'skype'
@@ -47,7 +52,6 @@ cask 'vlc'
 cask 'whatsapp'
 cask 'xld'
 
-mas '1Password', id: 443987910
 mas 'Parcel', id: 639968404
 mas 'Pocket', id: 568494494
 mas 'Tweetbot', id: 557168941
