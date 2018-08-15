@@ -55,3 +55,4 @@ cask 'xld'
 mas 'Parcel', id: 639968404
 mas 'Pocket', id: 568494494
 mas 'Tweetbot', id: 557168941
+mas 'Magnet', id: 441258766
