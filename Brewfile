@@ -1,5 +1,3 @@
-
-
 brew 'awscli'
 brew 'curl'
 brew 'doctl'
@@ -12,6 +10,7 @@ brew 'jq'
 brew 'kubernetes-cli'
 brew 'mackup'
 brew 'mas'
+brew 'nmap'
 brew 'packer'
 brew 'python3'
 brew 'shellcheck'
@@ -20,8 +19,8 @@ brew 'vim'
 brew 'watch'
 brew 'wget'
 brew 'youtube-dl'
-
 cask '1password'
+
 cask 'adobe-photoshop-lightroom'
 cask 'airserver'
 cask 'arq'
@@ -52,7 +51,7 @@ cask 'vlc'
 cask 'whatsapp'
 cask 'xld'
 
+mas 'Magnet', id: 441258766
 mas 'Parcel', id: 639968404
 mas 'Pocket', id: 568494494
 mas 'Tweetbot', id: 557168941
-mas 'Magnet', id: 441258766
