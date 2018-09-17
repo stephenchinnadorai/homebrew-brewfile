@@ -1,5 +1,3 @@
-
-
 brew 'awscli'
 brew 'curl'
 brew 'doctl'
@@ -12,6 +10,7 @@ brew 'jq'
 brew 'kubernetes-cli'
 brew 'mackup'
 brew 'mas'
+brew 'openssh'
 brew 'packer'
 brew 'python3'
 brew 'shellcheck'
