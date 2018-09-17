@@ -10,6 +10,7 @@ brew 'jq'
 brew 'kubernetes-cli'
 brew 'mackup'
 brew 'mas'
+brew 'nmap'
 brew 'openssh'
 brew 'packer'
 brew 'python3'
@@ -32,7 +33,7 @@ cask 'evernote'
 cask 'geekbench'
 cask 'google-chrome'
 cask 'google-cloud-sdk'
-cask 'google-photos-backup'
+cask 'google-photos-backup-and-sync'
 cask 'iterm2'
 cask 'kindle'
 cask 'microsoft-office'
@@ -51,6 +52,7 @@ cask 'vlc'
 cask 'whatsapp'
 cask 'xld'
 
+mas 'Magnet', id: 441258766
 mas 'Parcel', id: 639968404
 mas 'Pocket', id: 568494494
 mas 'Tweetbot', id: 557168941
